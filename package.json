@@ -1,0 +1,15 @@
+{
+  "name": "smart-contract-hacking-portfolio",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "five-server": "^0.3.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "highlight.js": "^11.10.0"
+  }
+}
